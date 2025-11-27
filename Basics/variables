@@ -1,0 +1,53 @@
+Features of Python
+✅ 1. Easy to Learn and Read
+Python looks like plain English.
+So beginners understand it quickly and write code easily.
+
+✅ 2. Free and Open Source
+You don’t have to pay to use Python.
+Anyone can download, use, and share it.
+
+✅ 3. Interpreted Language
+You don’t need to “compile” your code.
+Python runs line-by-line, so it’s easy to test and debug.
+
+✅ 4. Portable
+
+Write code once → run it anywhere
+(Windows, Mac, Linux) without changing it.
+
+✅ 5. Object-Oriented
+Python supports concepts like:
+classes
+objects
+inheritance
+This makes programs cleaner and easier to reuse.
+
+✅ 6. Large Standard Library
+Python comes with many built-in modules (like math, file handling, datetime) so you don't always need to install extra packages.
+
+✅ 7. Supports Multiple Programming Styles
+You can write code:
+in a simple way (procedural)
+using functions
+using classes (object-oriented)
+
+✅ 8. Huge Community Support
+Millions of people use Python.
+So you get lots of tutorials, libraries, and help online.
+
+✅ 9. Extensible and Embeddable
+You can add code from other languages (C, C++).
+You can also use Python inside other applications.
+
+✅ 10. Great for AI, ML, Data Science
+Python has famous libraries:
+NumPy
+Pandas
+TensorFlow
+PyTorch
+Scikit-Learn
+
+
+
+  
